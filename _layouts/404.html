@@ -6,6 +6,15 @@ layout: compress
 <html>
 {% include head.html %}
 
+<head>
+<style>
+    .hero.is-fullheight {
+        background: url('/images/lofi.gif') no-repeat center center fixed;
+        background-size: cover;
+    }
+</style>
+</head>
+
 <body>
     <section class="hero is-fullheight has-text-centered has-background-black-ter">
         <div class="hero-body">
@@ -13,7 +22,7 @@ layout: compress
                 <h1 class="title is-1 is-uppercase has-text-weight-bold has-text-white">
                     {{page.title}}
                 </h1>
-                <h3 class="is-uppercase has-text-weight-medium is-marginless has-text-grey-light">
+                <h3 class="is-uppercase has-text-weight-medium is-marginless has-text-white">
                     {{content}}
                 </h3>
                 <hr>

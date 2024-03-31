@@ -13,7 +13,7 @@ I've recently passed the **BTL-1 exam** with 100% of the score. This article is 
 
 ---
 
-## Blue Team Labs Online
+## Blue Team Labs Online 🔵
 
 The best way to pass this exam is through practice. [**BTLO**](https://blueteamlabs.online/) is a platform developed by Security Blue Team, who are also the creators of this certification.
 
@@ -27,7 +27,7 @@ The best way to pass this exam is through practice. [**BTLO**](https://blueteaml
 - All 41 challenges
 - 145 investigations
 
-I highly recommend purchasing the <strong style="color: gold; animation: blinker 1s linear infinite;">PRO</strong> version to conduct more investigations using the same tools in the exam. This platform is also very useful once certification has been achieved.
+I highly recommend purchasing the <strong style="color: gold; animation: blinker s linear infinite;">PRO version</strong> to conduct more investigations using the same tools in the exam. This platform is also very useful once certification has been achieved.
 
 <style>
 @keyframes blinker {  
@@ -44,7 +44,7 @@ strong {
 
 --- 
 
-## Phishing Analysis
+## Phishing Analysis 🎣
 
 In this domain, you will learn how to identify a malicious email and how to extract artefacts.
 
@@ -67,7 +67,7 @@ In this domain, you will learn how to identify a malicious email and how to extr
 
 ---
 
-## Threat Intelligence
+## Threat Intelligence 🧠
 
 This domain is focused more on theoretical concepts and lacks practical application. The vital focus here lies in studying the **MITRE ATT&CK framework** and the prevalent attack techniques.
 
@@ -84,7 +84,7 @@ This domain is focused more on theoretical concepts and lacks practical applicat
 
 ---
 
-## Digital Forensics
+## Digital Forensics 🕵️
 
 This domain teaches gathering digital evidence and conducting investigations on Windows and Linux.
 
@@ -101,7 +101,7 @@ This domain teaches gathering digital evidence and conducting investigations on 
 
 ---
 
-## SIEM
+## SIEM 🔎
 
 Splunk is every student’s worst nightmare. This is where many students fail, mainly because they do not get enough practice.
 
@@ -118,7 +118,7 @@ Splunk is every student’s worst nightmare. This is where many students fail, m
 
 ---
 
-## Incident Response
+## Incident Response 🚧
 
 This domain teaches you how to respond to an incident. It is the most important because this is what you will do in the exam.
 
@@ -136,7 +136,7 @@ This domain teaches you how to respond to an incident. It is the most important 
 
 ---
 
-## General Tips
+## General Tips 💬
 
 - Don’t rush the exam. Nobody will give you a prize for speed.
 - Read the scenario carefully, even more than once if necessary.
@@ -147,10 +147,12 @@ This domain teaches you how to respond to an incident. It is the most important 
 
 I also suggest to watch this <span style="color:red">*YouTube*</span> video by [*Malik Girondin*](https://www.linkedin.com/in/malikgirondin/):
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ss3Faz9pfCY&ab_channel=MalikGirondin" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ss3Faz9pfCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Support
+## Support 🤝
 
 If you have any questions about the exam, please consult [this page](https://support.securityblue.team/hc/en-gb).
+
+---
