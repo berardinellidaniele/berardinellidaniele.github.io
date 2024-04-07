@@ -6,9 +6,6 @@ url: 'https://berardinellidaniele.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
-<!-- SEO tags -->
-{% seo %}
-
 # Title of the Site
 title: 0xBera
 # Description of the Site
@@ -18,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /assets/images/logo.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /images/IMG_2542.gif
