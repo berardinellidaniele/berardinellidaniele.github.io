@@ -6,6 +6,9 @@ url: 'https://berardinellidaniele.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
+<!-- SEO tags -->
+{% seo %}
+
 # Title of the Site
 title: 0xBera
 # Description of the Site
@@ -53,6 +56,9 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # Permalink
 permalink: "blog/:title"
@@ -90,3 +96,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
