@@ -1,7 +1,7 @@
 ---
 title: HTB Lost in Hyperspace 
 layout: post
-post-image: "/posts_media/L_Hyperspace/background.jpg"
+post-image: "/images/background.jpg"
 description: A detailed writeup on Lost in Hyperspace, a challenge by HackTheBox.
 tags:
 - hackthebox
