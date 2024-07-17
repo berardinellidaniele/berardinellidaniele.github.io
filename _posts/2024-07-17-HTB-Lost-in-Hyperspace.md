@@ -1,5 +1,5 @@
 ---
-title: HTB Lost in Hyperspace 
+title: HTB Lost in Hyperspace writeup
 layout: post
 post-image: "/images/background.jpg"
 description: A detailed writeup on Lost in Hyperspace, a challenge by HackTheBox.
